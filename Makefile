@@ -1,5 +1,5 @@
 CC = c++
-CFLAGS = -Wall -Wextra -Wpedantic -Werror -std=c++20
+CFLAGS = -Wall -Wextra -Werror
 
 all: main
 
